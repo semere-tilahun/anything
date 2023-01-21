@@ -1,0 +1,17 @@
+
+}
+#main{
+ color: black;
+
+}
+body{
+    background-color: blue ;
+    text-align: center;
+
+} 
+
+#survey-form{
+    max-width:500px;
+    text-align: center;
+    border: 20px solid gold;
+}
